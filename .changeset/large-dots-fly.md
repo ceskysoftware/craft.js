@@ -1,5 +1,0 @@
----
-'@craftjs/core': minor
----
-
-nic

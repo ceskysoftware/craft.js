@@ -1,5 +1,13 @@
 # @craftjs/core
 
+## 0.3.0
+
+### Minor Changes
+
+- [`e4a15fe`](https://github.com/prevwong/craft.js/commit/e4a15fefb9e17060ab904228d0f7b963d0571cf5) Thanks [@JsSusenka](https://github.com/JsSusenka)! - nic
+
+* [`3e68da0`](https://github.com/prevwong/craft.js/commit/3e68da062eea4da1d45a00ef0edd0115d3752321) Thanks [@JsSusenka](https://github.com/JsSusenka)! - indicator will now span full contianer when parent has no child nodes
+
 ## 0.2.11
 
 ### Patch Changes
