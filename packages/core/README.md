@@ -1,6 +1,6 @@
 
 <div align="center" style={{d}}>
-<h1>craft.js</h1>
+<h1>craft.js - edit</h1>
 <a href="https://www.npmjs.com/package/@craftjs/core">
   <img src="https://img.shields.io/npm/v/@craftjs/core?color=%232680eb&label=NPM&logo=npm&logoColor=%232680eb&style=for-the-badge">
 </a>
