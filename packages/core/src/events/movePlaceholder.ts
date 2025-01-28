@@ -37,7 +37,7 @@ export default function movePlaceholder(
         canvasDOMInfo.padding.left -
         canvasDOMInfo.margin.left -
         canvasDOMInfo.margin.right;
-      h = thickness;
+      h = canvasDOMInfo.outerHeight;
     }
   }
   return {
