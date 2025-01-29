@@ -2253,7 +2253,7 @@ __metadata:
   version: 0.0.0-use.local
   resolution: "@ceskysoftware/craft.js-core@workspace:packages/core"
   dependencies:
-    "@ceskysoftware/craft.js-utils": ^0.2.4
+    "@ceskysoftware/craft.js-utils": ^0.3.0
     "@types/lodash": ^4.14.195
     "@types/react": 18.0.27
     debounce: ^1.2.0
@@ -2270,7 +2270,7 @@ __metadata:
   resolution: "@ceskysoftware/craft.js-layers@workspace:packages/layers"
   dependencies:
     "@babel/core": 7.7.4
-    "@ceskysoftware/craft.js-utils": ^0.2.4
+    "@ceskysoftware/craft.js-utils": ^0.3.0
     "@svgr/rollup": 6.5.1
     react-contenteditable: ^3.3.3
     styled-components: 6.1.13
@@ -2281,7 +2281,7 @@ __metadata:
   languageName: unknown
   linkType: soft
 
-"@ceskysoftware/craft.js-utils@^0.2.4, @ceskysoftware/craft.js-utils@workspace:packages/utils":
+"@ceskysoftware/craft.js-utils@^0.3.0, @ceskysoftware/craft.js-utils@workspace:packages/utils":
   version: 0.0.0-use.local
   resolution: "@ceskysoftware/craft.js-utils@workspace:packages/utils"
   dependencies:
