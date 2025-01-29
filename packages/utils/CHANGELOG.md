@@ -1,5 +1,11 @@
 # @craftjs/utils
 
+## 0.3.0
+
+### Minor Changes
+
+- [`67f147e`](https://github.com/prevwong/craft.js/commit/67f147eb7db13003458992d346723f083d81b644) Thanks [@JsSusenka](https://github.com/JsSusenka)! - prejmenovat
+
 ## 0.2.4
 
 ### Patch Changes
