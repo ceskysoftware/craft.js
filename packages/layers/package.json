@@ -11,7 +11,7 @@
     "web-builder",
     "react"
   ],
-  "version": "0.2.6",
+  "version": "0.3.0",
   "author": "Prev Wong <prevwong@gmail.com>",
   "main": "./dist/cjs/index.js",
   "module": "./dist/esm/index.js",
@@ -39,7 +39,7 @@
   },
   "homepage": "https://github.com/prevwong/craft.js/",
   "dependencies": {
-    "@ceskysoftware/craft.js-utils": "^0.2.4",
+    "@ceskysoftware/craft.js-utils": "^0.3.0",
     "react-contenteditable": "^3.3.3"
   },
   "devDependencies": {
