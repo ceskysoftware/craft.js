@@ -1,4 +1,4 @@
-import { useNode, useEditor } from '@craftjs/core';
+import { useNode, useEditor } from '@ceskysoftware/craft.js-core';
 import cx from 'classnames';
 import { debounce } from 'debounce';
 import { Resizable } from 're-resizable';

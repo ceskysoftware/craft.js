@@ -1,4 +1,8 @@
-import { NodeId, Node, DerivedCoreEventHandlers } from '@craftjs/core';
+import {
+  NodeId,
+  Node,
+  DerivedCoreEventHandlers,
+} from '@ceskysoftware/craft.js-core';
 
 import { LayerIndicator } from '../interfaces';
 

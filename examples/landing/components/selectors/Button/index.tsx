@@ -1,4 +1,4 @@
-import { UserComponent, useNode } from '@craftjs/core';
+import { UserComponent, useNode } from '@ceskysoftware/craft.js-core';
 import cx from 'classnames';
 import React from 'react';
 import { styled } from 'styled-components';

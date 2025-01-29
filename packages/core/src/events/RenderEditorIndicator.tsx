@@ -1,4 +1,4 @@
-import { RenderIndicator, getDOMInfo } from '@craftjs/utils';
+import { RenderIndicator, getDOMInfo } from '@ceskysoftware/craft.js-utils';
 import React, { useEffect } from 'react';
 
 import { useEventHandler } from './EventContext';

@@ -1,5 +1,5 @@
 {
-  "name": "@craftjs/utils",
+  "name": "@ceskysoftware/craft.js-utils",
   "description": "Utilities used internally across the craft.js monorepo",
   "version": "0.2.4",
   "author": "Prev Wong <prevwong@gmail.com>",
@@ -16,6 +16,14 @@
     "build": "cross-env NODE_ENV=production ../../scripts/build.sh",
     "dev:yalc": "../../scripts/yalc.sh",
     "clean": "rimraf lib dist"
+  },
+  "publishConfig": {
+    "access": "public",
+    "registry": "https://npm.pkg.github.com/"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ceskysoftware/craft.js"
   },
   "dependencies": {
     "immer": "^9.0.6",

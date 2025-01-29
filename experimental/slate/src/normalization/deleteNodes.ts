@@ -1,5 +1,5 @@
 /* eslint-disable no-param-reassign */
-import { EditorState, NodeEventTypes } from '@craftjs/core';
+import { EditorState, NodeEventTypes } from '@ceskysoftware/craft.js-core';
 
 export default function deleteNodes(
   state: EditorState,

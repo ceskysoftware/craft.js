@@ -9,8 +9,8 @@
     "clean": "rimraf lib .next out dist"
   },
   "dependencies": {
-    "@craftjs/core": "workspace:*",
-    "@craftjs/layers": "workspace:*",
+    "@ceskysoftware/craft.js-core": "workspace:*",
+    "@ceskysoftware/craft.js-layers": "workspace:*",
     "@material-ui/core": "4.5.2",
     "@material-ui/icons": "4.5.1",
     "autoprefixer": "latest",

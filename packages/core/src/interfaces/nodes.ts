@@ -1,4 +1,4 @@
-import { QueryCallbacksFor } from '@craftjs/utils';
+import { QueryCallbacksFor } from '@ceskysoftware/craft.js-utils';
 import React from 'react';
 
 import { QueryMethods } from '../editor/query';

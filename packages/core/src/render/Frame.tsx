@@ -1,4 +1,4 @@
-import { deprecationWarning, ROOT_NODE } from '@craftjs/utils';
+import { deprecationWarning, ROOT_NODE } from '@ceskysoftware/craft.js-utils';
 import React, { useRef } from 'react';
 
 import { useInternalEditor } from '../editor/useInternalEditor';

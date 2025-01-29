@@ -1,4 +1,4 @@
-import { NodeId, Indicator } from '@craftjs/core';
+import { NodeId, Indicator } from '@ceskysoftware/craft.js-core';
 
 export type Layer = {
   id: NodeId;

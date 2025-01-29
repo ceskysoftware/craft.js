@@ -1,4 +1,4 @@
-import { useEditor } from '@craftjs/core';
+import { useEditor } from '@ceskysoftware/craft.js-core';
 import {
   Box,
   FormControlLabel,

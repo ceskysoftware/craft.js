@@ -1,4 +1,4 @@
-import { createTestState } from '@craftjs/core';
+import { createTestState } from '@ceskysoftware/craft.js-core';
 
 import { wrapRogueElement } from '../wrapRogueElement';
 

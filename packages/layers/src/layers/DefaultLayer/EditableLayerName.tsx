@@ -1,4 +1,4 @@
-import { useEditor } from '@craftjs/core';
+import { useEditor } from '@ceskysoftware/craft.js-core';
 import React, { useState, useRef, useEffect, useCallback } from 'react';
 import ContentEditable from 'react-contenteditable';
 

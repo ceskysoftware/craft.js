@@ -1,4 +1,4 @@
-import { Editor, Frame, Element } from '@craftjs/core';
+import { Editor, Frame, Element } from '@ceskysoftware/craft.js-core';
 import { createMuiTheme } from '@material-ui/core';
 import { ThemeProvider } from '@material-ui/core/styles';
 import { NextSeo } from 'next-seo';

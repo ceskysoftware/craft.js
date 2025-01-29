@@ -1,4 +1,4 @@
-import { useNode } from '@craftjs/core';
+import { useNode } from '@ceskysoftware/craft.js-core';
 import {
   ExpansionPanel,
   ExpansionPanelDetails,

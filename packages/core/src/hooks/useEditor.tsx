@@ -1,4 +1,8 @@
-import { Overwrite, Delete, OverwriteFnReturnType } from '@craftjs/utils';
+import {
+  Overwrite,
+  Delete,
+  OverwriteFnReturnType,
+} from '@ceskysoftware/craft.js-utils';
 import { useMemo } from 'react';
 
 import {

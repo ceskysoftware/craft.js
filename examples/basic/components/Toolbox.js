@@ -1,4 +1,4 @@
-import { useEditor, Element } from '@craftjs/core';
+import { useEditor, Element } from '@ceskysoftware/craft.js-core';
 import {
   Box,
   Typography,

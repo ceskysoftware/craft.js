@@ -1,4 +1,4 @@
-import { NodeElement, useEditor } from '@craftjs/core';
+import { NodeElement, useEditor } from '@ceskysoftware/craft.js-core';
 import React, { useEffect, useRef } from 'react';
 import { Editor } from 'slate';
 import { useEditor as useSlateEditor } from 'slate-react';

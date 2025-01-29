@@ -1,4 +1,4 @@
-import { ERROR_NOT_IN_RESOLVER } from '@craftjs/utils';
+import { ERROR_NOT_IN_RESOLVER } from '@ceskysoftware/craft.js-utils';
 import React from 'react';
 import invariant from 'tiny-invariant';
 

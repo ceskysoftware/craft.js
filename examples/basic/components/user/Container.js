@@ -1,4 +1,4 @@
-import { useNode } from '@craftjs/core';
+import { useNode } from '@ceskysoftware/craft.js-core';
 import { Slider } from '@material-ui/core';
 import { Paper, FormControl, FormLabel } from '@material-ui/core';
 import ColorPicker from 'material-ui-color-picker';

@@ -1,4 +1,4 @@
-import { useEditor } from '@craftjs/core';
+import { useEditor } from '@ceskysoftware/craft.js-core';
 import cx from 'classnames';
 import React, { useEffect } from 'react';
 

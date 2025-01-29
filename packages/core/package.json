@@ -1,5 +1,5 @@
 {
-  "name": "@craftjs/core",
+  "name": "@ceskysoftware/craft.js-core",
   "version": "0.2.11",
   "description": "A React Framework for building extensible drag and drop page editors",
   "keywords": [
@@ -25,9 +25,13 @@
     "dist",
     "lib"
   ],
+  "publishConfig": {
+    "access": "public",
+    "registry": "https://npm.pkg.github.com/"
+  },
   "repository": {
     "type": "git",
-    "url": "https://github.com/prevwong/craft.js/"
+    "url": "https://github.com/ceskysoftware/craft.js"
   },
   "scripts": {
     "start": "cross-env NODE_ENV=development ../../scripts/build.sh",
@@ -39,7 +43,7 @@
     "url": "https://github.com/prevwong/craft.js/issues"
   },
   "dependencies": {
-    "@craftjs/utils": "^0.2.4",
+    "@ceskysoftware/craft.js-utils": "^0.2.4",
     "debounce": "^1.2.0",
     "lodash": "^4.17.21",
     "tiny-invariant": "^1.0.6"

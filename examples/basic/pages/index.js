@@ -1,4 +1,4 @@
-import { Editor, Frame, Element } from '@craftjs/core';
+import { Editor, Frame, Element } from '@ceskysoftware/craft.js-core';
 import { Typography, Paper, Grid, makeStyles } from '@material-ui/core';
 import React from 'react';
 
